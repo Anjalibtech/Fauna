@@ -38,7 +38,7 @@
    }
    
    
-   h1 {
+   .contents h1 {
    size:55px;
    color:#00ffff;
    }
@@ -76,6 +76,7 @@
    <li>Extinct</li></ul></div></li></ul></div>  
   </header> 
   <div class="main">
+  <div class="contents>
   <h1 text-align="left">Fauna</h1>
    <p>Fauna is all of the animal life present in a particular region or time. The corresponding term for plants is flora.</p>
    <p>The various human activities have led to their extinction and made them Endangeres.</p>
@@ -126,7 +127,7 @@ Although Thylacine's looked fierce, they were actually quite timid and, accordin
     <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-now-extinct-passenger-pigeon-is-on-display-at-the-news-photo-1607466889.?crop=1xw:1xh;center,top&resize=980:*">
     <h3>Reason for Extinction</h3>
     <p>Humans have caused the extinction of various species through overharvesting, pollution, habitat destruction, introduction of invasive species (such as new predators and food competitors), overhunting, and other influences.</p> 
-  </div>
+  </div></div>
   <footer>
    <div class="footer-logo">Made By:Anjali Gupta <br>E-mail:anjaligupta2810cd@gmail.com</div>
   </footer> 
